@@ -1,0 +1,8 @@
+{
+    "name": "Anime47",
+    "description": "Anime47 Patched",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Elv0nne/fixing/refs/heads/builds/plugins.json"
+    ]
+}
